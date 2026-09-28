@@ -1,0 +1,4093 @@
+{
+  "version": 2,
+  "last_updated": "2026-09-25",
+  "categories": [
+    {
+      "key": "ctg_area",
+      "title": "Chattogram Area",
+      "grid_items": [
+        {
+          "title": "Ships Gangway",
+          "icon": "ships_gangway",
+          "activity_title": "CTG Ships Gangway",
+          "contacts": [
+            {
+              "id": "ctg_ships_gangway_bns_kbw_01769726219",
+              "name": "BNS KBW",
+              "number": "01769726219",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_s_joy_01769726639",
+              "name": "BNS S/ JOY",
+              "number": "01769726639",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_s_avijan_01769726619",
+              "name": "BNS S/ AVIJAN",
+              "number": "01769726619",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_shadhinota_01769726299",
+              "name": "BNS SHADHINOTA",
+              "number": "01769726299",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_prottoy_01769726279",
+              "name": "BNS PROTTOY",
+              "number": "01769726279",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_sangram_01769726659",
+              "name": "BNS SANGRAM",
+              "number": "01769726659",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_prottasha_01769726679",
+              "name": "BNS PROTTASHA",
+              "number": "01769726679",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_nobojatra_01769862165",
+              "name": "BNS NOBOJATRA",
+              "number": "01769862165",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_joyjatra_01769862185",
+              "name": "BNS JOYJATRA",
+              "number": "01769862185",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_k_j_ali_01769726389",
+              "name": "BNS K J ALI",
+              "number": "01769726389",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bnt_khadem_01769726469",
+              "name": "BNT KHADEM",
+              "number": "01769726469",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_anushandhan_01769722459",
+              "name": "BNS ANUSHANDHAN",
+              "number": "01769722459",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_shundarban_01769726988",
+              "name": "BNS SHUNDARBAN",
+              "number": "01769726988",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bnfd_balaban_01769726991",
+              "name": "BNFD BALABAN",
+              "number": "01769726991",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_durjoy_01769726329",
+              "name": "BNS DURJOY",
+              "number": "01769726329",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_nirmul_01769726349",
+              "name": "BNS NIRMUL",
+              "number": "01769726349",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_sagar_01769726339",
+              "name": "BNS SAGAR",
+              "number": "01769726339",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_shapla_01769726409",
+              "name": "BNS SHAPLA",
+              "number": "01769726409",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_saibal_01769722469",
+              "name": "BNS SAIBAL",
+              "number": "01769722469",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_saikat_01769822459",
+              "name": "BNS SAIKAT",
+              "number": "01769822459",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_madhumati_01769726319",
+              "name": "BNS MADHUMATI",
+              "number": "01769726319",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_adomya_01769726359",
+              "name": "BNS ADOMYA",
+              "number": "01769726359",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_atondro_01769726379",
+              "name": "BNS ATONDRO",
+              "number": "01769726379",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_surma_01769726569",
+              "name": "BNS SURMA",
+              "number": "01769726569",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_jamuna_01769726559",
+              "name": "BNS JAMUNA",
+              "number": "01769726559",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_s_daulat_01769726399",
+              "name": "BNS S/DAULAT",
+              "number": "01769726399",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_s_farid_01769726419",
+              "name": "BNS S/FARID",
+              "number": "01769726419",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_dhanshiri_01769726494",
+              "name": "BNS DHANSHIRI",
+              "number": "01769726494",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_hatia_01769726439",
+              "name": "BNS HATIA",
+              "number": "01769726439",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_sondip_01769726434",
+              "name": "BNS SONDIP",
+              "number": "01769726434",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_dolphin_lcu_1_01769726459",
+              "name": "BNS DOLPHIN (LCU-1)",
+              "number": "01769726459",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_timi_lcu_2_01769726484",
+              "name": "BNS TIMI (LCU-2)",
+              "number": "01769726484",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_tuna_lcu_3_01769726424",
+              "name": "BNS TUNA (LCU-3)",
+              "number": "01769726424",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_penguine_01769726479",
+              "name": "BNS PENGUINE",
+              "number": "01769726479",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_darshak_01769722474",
+              "name": "BNS DARSHAK",
+              "number": "01769722474",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_tallashi_01769xxxxxx",
+              "name": "BNS TALLASHI",
+              "number": "01769XXXXXX",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bns_agradoot_01769xxxxxx",
+              "name": "BNS AGRADOOT",
+              "number": "01769XXXXXX",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_lct_103_01769822338",
+              "name": "LCT-103",
+              "number": "01769822338",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_lct_105_01769721136",
+              "name": "LCT-105",
+              "number": "01769721136",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_mbs_sqn_01769726509",
+              "name": "MBS SQN",
+              "number": "01769726509",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bnt_sebak_01769726574",
+              "name": "BNT SEBAK",
+              "number": "01769726574",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bnt_shibsha_01769726429",
+              "name": "BNT SHIBSHA",
+              "number": "01769726429",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bnt_halda_01769862199",
+              "name": "BNT HALDA",
+              "number": "01769862199",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_bnt_passur_01769862194",
+              "name": "BNT PASSUR",
+              "number": "01769862194",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "ctg_ships_gangway_tunnel_tug_01769732115",
+              "name": "TUNNEL TUG",
+              "number": "01769732115",
+              "icon": "ships_gangway"
+            }
+          ]
+        },
+        {
+          "title": "All MSO/RCO",
+          "icon": "all_mso_rco",
+          "activity_title": "CTG All MSO/RCO",
+          "contacts": [
+            {
+              "id": "ctg_all_mso_rco_comchit_mso_01769724137",
+              "name": "COMCHIT MSO",
+              "number": "01769724137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_comban_mso_01769726125",
+              "name": "COMBAN MSO",
+              "number": "01769726125",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_csd_dockyard_mso_01769726937",
+              "name": "CSD/DOCKYARD MSO",
+              "number": "01769726937",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_comsub_mso_01769862137",
+              "name": "COMSUB MSO",
+              "number": "01769862137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_comnav_mso_01769812537",
+              "name": "COMNAV MSO",
+              "number": "01769812537",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_comswads_mso_01769822137",
+              "name": "COMSWADS MSO",
+              "number": "01769822137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_nirvik_mso_01769822223",
+              "name": "NIRVIK MSO",
+              "number": "01769822223",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_chief_hydro_mso_01769722437",
+              "name": "CHIEF HYDRO MSO",
+              "number": "01769722437",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_issa_khan_mso_01769724419",
+              "name": "ISSA KHAN MSO",
+              "number": "01769724419",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_patenga_mso_01769724215",
+              "name": "PATENGA MSO",
+              "number": "01769724215",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_nsd_ctg_mso_01769724324",
+              "name": "NSD CTG MSO",
+              "number": "01769724324",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_bso_ctg_mso_gw_01769724188",
+              "name": "BSO CTG MSO/GW",
+              "number": "01769724188",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_comcen_ctg_mso_01769724136",
+              "name": "COMCEN CTG MSO",
+              "number": "01769724136",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_rco_ctg_01769724133",
+              "name": "RCO CTG",
+              "number": "01769724133",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_rco_cox_s_bazar_01769724042",
+              "name": "RCO COX\u0027S BAZAR",
+              "number": "01769724042",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_bna_mso_01769732032",
+              "name": "BNA MSO",
+              "number": "01769732032",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_ulka_mso_01769744376",
+              "name": "ULKA MSO",
+              "number": "01769744376",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_s_moazzam_mso_01769772137",
+              "name": "S/MOAZZAM MSO",
+              "number": "01769772137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_bhatiary_mso_01769754119",
+              "name": "BHATIARY MSO",
+              "number": "01769754119",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "ctg_all_mso_rco_pakua_mso_01769862237",
+              "name": "PAKUA MSO",
+              "number": "01769862237",
+              "icon": "all_mso_rco"
+            }
+          ]
+        },
+        {
+          "title": "All Exchange",
+          "icon": "all_exchange",
+          "activity_title": "All Area Exchange",
+          "contacts": [
+            {
+              "id": "all_area_exchange_chattogram_exchange_97211",
+              "name": "Chattogram Exchange",
+              "number": "97211",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_dhaka_exchange_97011",
+              "name": "Dhaka Exchange",
+              "number": "97011",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_khulna_exchange_97811",
+              "name": "Khulna Exchange",
+              "number": "97811",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_mongla_exchange_97911",
+              "name": "Mongla Exchange",
+              "number": "97911",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_pekua_exchange_9861111",
+              "name": "Pekua Exchange",
+              "number": "9861111",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_nirvik_exchange_98211",
+              "name": "Nirvik Exchange",
+              "number": "98211",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_bna_exchange_97311",
+              "name": "BNA Exchange",
+              "number": "97311",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_comnav_exchange_98111",
+              "name": "COMNAV Exchange",
+              "number": "98111",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_cox_s_bazar_exchange_98711",
+              "name": "COX\u0027S BAZAR Exchange",
+              "number": "98711",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_shaheed_moazzam_exchange_97711",
+              "name": "Shaheed Moazzam Exchange",
+              "number": "97711",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_ulka_exchange_97411",
+              "name": "Ulka Exchange",
+              "number": "97411",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_bhatiyari_exchange_97511",
+              "name": "Bhatiyari Exchange",
+              "number": "97511",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_sheikh_mujib_exchange_97111",
+              "name": "Sheikh Mujib Exchange",
+              "number": "97111",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_shere_bangla_exchange_98311",
+              "name": "Shere Bangla Exchange",
+              "number": "98311",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_solam_exchange_97111",
+              "name": "Solam Exchange",
+              "number": "97111",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_cgs_dhaka_guard_room_9704429",
+              "name": "CGS Dhaka Guard Room",
+              "number": "9704429",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_dhaka_cantonment_exchange_90111",
+              "name": "Dhaka Cantonment Exchange",
+              "number": "90111",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_jahanarabad_cantonment_khulna_01769560000",
+              "name": "Jahanarabad Cantonment Khulna",
+              "number": "01769560000",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_jashore_cantonment_02479550000",
+              "name": "Jashore Cantonment",
+              "number": "02479550000",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_senakollan_01769056494",
+              "name": "Senakollan",
+              "number": "01769056494",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_jashore_air_force_041268601",
+              "name": "Jashore Air Force",
+              "number": "041268601",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_rab_control_room_01777710610",
+              "name": "RAB Control Room",
+              "number": "01777710610",
+              "icon": "all_exchange"
+            },
+            {
+              "id": "all_area_exchange_bgb_mongla_01769619340",
+              "name": "BGB Mongla",
+              "number": "01769619340",
+              "icon": "all_exchange"
+            }
+          ]
+        },
+        {
+          "title": "COMCHIT",
+          "icon": "comchit",
+          "activity_title": "COMCHIT",
+          "contacts": [
+            {
+              "id": "comchit_pa_to_comchit_4101",
+              "name": "PA TO COMCHIT",
+              "number": "4101",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_secy_to_comchit_01769724102",
+              "name": "SECY TO COMCHIT",
+              "number": "01769724102",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_sso_cash_4111",
+              "name": "SSO(CASH)",
+              "number": "4111",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_sso_store_4112",
+              "name": "SSO(STORE)",
+              "number": "4112",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_e_staff_4114",
+              "name": "SO(E) STAFF",
+              "number": "4114",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_l_staff_01769724116",
+              "name": "SO(L) STAFF",
+              "number": "01769724116",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_pro_staff_4118",
+              "name": "PRO STAFF",
+              "number": "4118",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_t_staff_01769724120",
+              "name": "SO(T) STAFF",
+              "number": "01769724120",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_works_staff_4122",
+              "name": "SO(WORKS) STAFF",
+              "number": "4122",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_alo_staff_4125",
+              "name": "ALO STAFF",
+              "number": "4125",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_nbo_staff_4127",
+              "name": "NBO STAFF",
+              "number": "4127",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_area_security_staff_01769724129",
+              "name": "AREA SECURITY STAFF",
+              "number": "01769724129",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_area_library_4138",
+              "name": "AREA LIBRARY",
+              "number": "4138",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_ops_room_4140",
+              "name": "OPS ROOM",
+              "number": "4140",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_secy_office_4142",
+              "name": "COMCHIT SECY OFFICE",
+              "number": "4142",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_fleet_mail_office_4143",
+              "name": "FLEET MAIL OFFICE",
+              "number": "4143",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_oro_staff_4146",
+              "name": "ORO STAFF",
+              "number": "4146",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_mt_staff_4148",
+              "name": "SO(MT) STAFF",
+              "number": "4148",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_building_qm_4149",
+              "name": "COMCHIT BUILDING QM",
+              "number": "4149",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_g_staff_4171",
+              "name": "SO(G) STAFF",
+              "number": "4171",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_so_ord_staff_4173",
+              "name": "SO(ORD) STAFF",
+              "number": "4173",
+              "icon": "comchit"
+            },
+            {
+              "id": "comchit_pmo_staff_4171",
+              "name": "PMO STAFF",
+              "number": "4171",
+              "icon": "comchit"
+            }
+          ]
+        },
+        {
+          "title": "Base QM/Office Staff",
+          "icon": "base_qm",
+          "activity_title": "CTG Base QM/Office Staff",
+          "contacts": [
+            {
+              "id": "ctg_base_qm_office_staff_patenga_qm_01769724221",
+              "name": "PATENGA QM",
+              "number": "01769724221",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_nirvik_qm_01769822543",
+              "name": "NIRVIK QM",
+              "number": "01769822543",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_ostg_office_01769726164",
+              "name": "OSTG OFFICE",
+              "number": "01769726164",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_dockyard_qm_6923",
+              "name": "DOCKYARD QM",
+              "number": "6923",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_ulka_qm_01769744323",
+              "name": "ULKA QM",
+              "number": "01769744323",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_fleet_mt_pool_01769726146",
+              "name": "FLEET MT POOL",
+              "number": "01769726146",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bhatiary_mt_pool_01769754111",
+              "name": "BHATIARY MT POOL",
+              "number": "01769754111",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bna_qm_01769732029",
+              "name": "BNA QM",
+              "number": "01769732029",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_cddl_qm_01769744416",
+              "name": "CDDL QM",
+              "number": "01769744416",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_ctg_boat_club_01769722334",
+              "name": "CTG BOAT CLUB",
+              "number": "01769722334",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bhatiary_qm_01769754123",
+              "name": "BHATIARY QM",
+              "number": "01769754123",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_tiger_pass_qm_01769726191",
+              "name": "TIGER PASS QM",
+              "number": "01769726191",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_st_martins_ops_qm_01769724029",
+              "name": "ST MARTINS OPS/QM",
+              "number": "01769724029",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bhasan_char_qm_01769727822",
+              "name": "BHASAN CHAR QM",
+              "number": "01769727822",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_coxs_bazar_qm_01769704042",
+              "name": "COXS BAZAR QM",
+              "number": "01769704042",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_natdoc_office_01769722705",
+              "name": "NATDOC OFFICE",
+              "number": "01769722705",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_comchit_building_gangway_4149",
+              "name": "COMCHIT BUILDING GANGWAY",
+              "number": "4149",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_npm_office_np_desk_01769724152",
+              "name": "NPM OFFICE/ NP DESK",
+              "number": "01769724152",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_fis_office_ctg_01769724169",
+              "name": "FIS Office CTG",
+              "number": "01769724169",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_fis_office_photo_cell_4166",
+              "name": "FIS Office Photo Cell",
+              "number": "4166",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_dgfi_office_ctg_01730524971",
+              "name": "DGFI OFFICE CTG",
+              "number": "01730524971",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bso_qm_4188",
+              "name": "BSO QM",
+              "number": "4188",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bsd_outlate_6048",
+              "name": "BSD OUTLATE",
+              "number": "6048",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_patenga_gangway_01769724221",
+              "name": "PATENGA GANGWAY",
+              "number": "01769724221",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_patenga_mi_room_01769727777",
+              "name": "PATENGA MI ROOM",
+              "number": "01769727777",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_mes_south_complain_4276",
+              "name": "MES (SOUTH) COMPLAIN",
+              "number": "4276",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_mes_north_complain_4282",
+              "name": "MES (NORTH) COMPLAIN",
+              "number": "4282",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_ao_civ_secy_office_01769724292",
+              "name": "AO(CIV) SECY OFFICE",
+              "number": "01769724292",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_nsd_ctg_01769724323",
+              "name": "NSD CTG",
+              "number": "01769724323",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_ik_gangway_01769724423",
+              "name": "IK GANGWAY",
+              "number": "01769724423",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_ik_central_training_chief_01769724504",
+              "name": "IK CENTRAL TRAINING CHIEF",
+              "number": "01769724504",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_smwt_01769724649",
+              "name": "SMWT",
+              "number": "01769724649",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_area_budget_office_01769724677",
+              "name": "AREA BUDGET OFFICE",
+              "number": "01769724677",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_sfc_office_01769724679",
+              "name": "SFC OFFICE",
+              "number": "01769724679",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_comsub_receiption_2139",
+              "name": "COMSUB RECEIPTION",
+              "number": "2139",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_submarine_base_pakua_01769xxxxxx",
+              "name": "SUBMARINE BASE PAKUA",
+              "number": "01769XXXXXX",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_training_office_submarine_school_2249",
+              "name": "TRAINING OFFICE SUBMARINE SCHOOL",
+              "number": "2249",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_commander_submarine_maintenance_staff_2294",
+              "name": "COMMANDER SUBMARINE MAINTENANCE STAFF",
+              "number": "2294",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_comnav_sectt_2542",
+              "name": "COMNAV SECTT",
+              "number": "2542",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_iff_center_gangway_01769722349",
+              "name": "IFF CENTER GANGWAY",
+              "number": "01769722349",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_cnrd_gangway_01769726950",
+              "name": "CNRD GANGWAY",
+              "number": "01769726950",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_director_cnrd_01769726952",
+              "name": "DIRECTOR CNRD",
+              "number": "01769726952",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_deputy_director_foreman_01769726951",
+              "name": "DEPUTY DIRECTOR FOREMAN",
+              "number": "01769726951",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bnhoc_2449",
+              "name": "BNHOC",
+              "number": "2449",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_bn_dors_office_staff_01769702076",
+              "name": "BN DORS OFFICE STAFF",
+              "number": "01769702076",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_training_chief_hydrography_school_01769722498",
+              "name": "TRAINING CHIEF HYDROGRAPHY SCHOOL",
+              "number": "01769722498",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_telephone_exchange_operator_11",
+              "name": "TELEPHONE EXCHANGE OPERATOR",
+              "number": "11",
+              "icon": "base_qm"
+            },
+            {
+              "id": "ctg_base_qm_office_staff_telephone_exchange_complain_12",
+              "name": "TELEPHONE EXCHANGE COMPLAIN",
+              "number": "12",
+              "icon": "base_qm"
+            }
+          ]
+        },
+        {
+          "title": "Fleet HQ",
+          "icon": "fleet_headquarters",
+          "activity_title": "Fleet Headquarters",
+          "contacts": [
+            {
+              "id": "fleet_headquarters_pa_to_comban_6101",
+              "name": "PA TO COMBAN",
+              "number": "6101",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_secy_to_comban_6102",
+              "name": "SECY TO COMBAN",
+              "number": "6102",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_cso_to_comban_6104",
+              "name": "CSO TO COMBAN",
+              "number": "6104",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_so_o_to_comban_6107",
+              "name": "SO(O) TO COMBAN",
+              "number": "6107",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_comban_ops_room_6140",
+              "name": "COMBAN OPS ROOM",
+              "number": "6140",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_comban_mso_6137",
+              "name": "COMBAN MSO",
+              "number": "6137",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_secy_office_6130",
+              "name": "SECY OFFICE",
+              "number": "6130",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fleet_law_office_staff_6105",
+              "name": "FLEET LAW OFFICE STAFF",
+              "number": "6105",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_nsko_6111",
+              "name": "NSKO",
+              "number": "6111",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_feo_staff_6114",
+              "name": "FEO STAFF",
+              "number": "6114",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_flo_staff_6116",
+              "name": "FLO STAFF",
+              "number": "6116",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fmo_staff_6118",
+              "name": "FMO STAFF",
+              "number": "6118",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fto_staff_6120",
+              "name": "FTO STAFF",
+              "number": "6120",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_ftaso_staff_6132",
+              "name": "FTASO STAFF",
+              "number": "6132",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fgo_staff_6123",
+              "name": "FGO STAFF",
+              "number": "6123",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fspto_staff_6126",
+              "name": "FSPTO STAFF",
+              "number": "6126",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fleet_qm_6129",
+              "name": "FLEET QM",
+              "number": "6129",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fio_staff_6177",
+              "name": "FIO STAFF",
+              "number": "6177",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fdo_staff_6139",
+              "name": "FDO STAFF",
+              "number": "6139",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fsyo_staff_6142",
+              "name": "FSYO STAFF",
+              "number": "6142",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fndo_staff_6144",
+              "name": "FNDO STAFF",
+              "number": "6144",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fleet_library_staff_6147",
+              "name": "FLEET LIBRARY STAFF",
+              "number": "6147",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_so_w_staff_6149",
+              "name": "SO(W) STAFF",
+              "number": "6149",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_sea_tag_center_staff_6153",
+              "name": "SEA TAG CENTER STAFF",
+              "number": "6153",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fleet_mt_pool_6146",
+              "name": "FLEET MT POOL",
+              "number": "6146",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "fleet_headquarters_fleet_barak_qm_6931",
+              "name": "FLEET BARAK QM",
+              "number": "6931",
+              "icon": "fleet_headquarters"
+            }
+          ]
+        },
+        {
+          "title": "CSD",
+          "icon": "csd",
+          "activity_title": "CSD",
+          "contacts": [
+            {
+              "id": "csd_pa_to_csd_6701",
+              "name": "PA to CSD",
+              "number": "6701",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_secy_to_csd_01769726702",
+              "name": "SECY to CSD",
+              "number": "01769726702",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_so_o_6704",
+              "name": "SO(O)",
+              "number": "6704",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_cso_6760",
+              "name": "CSO",
+              "number": "6760",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_sso_6705",
+              "name": "SSO",
+              "number": "6705",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_cash_6706",
+              "name": "CSD(CASH)",
+              "number": "6706",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_alo_01769726711",
+              "name": "ALO",
+              "number": "01769726711",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_alo_office_6712",
+              "name": "ALO OFFICE",
+              "number": "6712",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_gm_p_e_01769726720",
+              "name": "GM(P\u0026E)",
+              "number": "01769726720",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_pa_to_gm_p_e_6721",
+              "name": "PA TO GM(P\u0026E)",
+              "number": "6721",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_dy_ops_room_6752",
+              "name": "CSD/DY OPS ROOM",
+              "number": "6752",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_gm_production_01769726760",
+              "name": "GM(PRODUCTION)",
+              "number": "01769726760",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_pa_to_gm_production_6721",
+              "name": "PA TO GM(PRODUCTION)",
+              "number": "6721",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_gm_production_staff_6794",
+              "name": "GM(PRODUCTION)STAFF",
+              "number": "6794",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_platter_shop_01769726810",
+              "name": "OIC PLATTER SHOP",
+              "number": "01769726810",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_platter_shop_6812",
+              "name": "FOREMAN PLATTER SHOP",
+              "number": "6812",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_paint_shop_01769726815",
+              "name": "OIC PAINT SHOP",
+              "number": "01769726815",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_ice_shop_01769726820",
+              "name": "OIC ICE SHOP",
+              "number": "01769726820",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_ice_shop_6822",
+              "name": "FOREMAN ICE SHOP",
+              "number": "6822",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_machine_shop_01769726825",
+              "name": "OIC MACHINE SHOP",
+              "number": "01769726825",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_machine_shop_6826",
+              "name": "FOREMAN MACHINE SHOP",
+              "number": "6826",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_foundry_shop_01769726827",
+              "name": "OIC FOUNDRY SHOP",
+              "number": "01769726827",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_ship_fitting_shop_01769726830",
+              "name": "OIC SHIP FITTING SHOP",
+              "number": "01769726830",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_ship_fitting_shop_6831",
+              "name": "FOREMAN SHIP FITTING SHOP",
+              "number": "6831",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_fitting_shop_01769726832",
+              "name": "OIC FITTING SHOP",
+              "number": "01769726832",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_fitting_shop_6833",
+              "name": "FOREMAN FITTING SHOP",
+              "number": "6833",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_freeze_shop_01769726834",
+              "name": "OIC FREEZE SHOP",
+              "number": "01769726834",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_carpentry_shop_01769726836",
+              "name": "OIC CARPENTRY SHOP",
+              "number": "01769726836",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_rigging_shop_6840",
+              "name": "OIC RIGGING SHOP",
+              "number": "6840",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_sail_colorloft_6844",
+              "name": "OIC SAIL \u0026 COLORLOFT",
+              "number": "6844",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_lrsc_6846",
+              "name": "OIC LRSC",
+              "number": "6846",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_mt_work_shop_01769726848",
+              "name": "OIC MT WORK SHOP",
+              "number": "01769726848",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_h_l_shop_01769726850",
+              "name": "OIC H/L SHOP",
+              "number": "01769726850",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_h_l_shop_6852",
+              "name": "FOREMAN H/L SHOP",
+              "number": "6852",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_battery_shop_01769726855",
+              "name": "OIC BATTERY SHOP",
+              "number": "01769726855",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_battery_shop_6856",
+              "name": "FOREMAN BATTERY SHOP",
+              "number": "6856",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_radio_shop_01769726860",
+              "name": "OIC RADIO SHOP",
+              "number": "01769726860",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_radio_shop_6861",
+              "name": "FOREMAN RADIO SHOP",
+              "number": "6861",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_radar_shop_6862",
+              "name": "OIC RADAR SHOP",
+              "number": "6862",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_cal_centre_6869",
+              "name": "CAL CENTRE",
+              "number": "6869",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_cal_centre_01769726870",
+              "name": "OIC CAL CENTRE",
+              "number": "01769726870",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_cal_centre_6871",
+              "name": "FOREMAN CAL CENTRE",
+              "number": "6871",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_radio_instrument_officer_6874",
+              "name": "RADIO INSTRUMENT OFFICER",
+              "number": "6874",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_gyro_shop_01769726880",
+              "name": "OIC GYRO SHOP",
+              "number": "01769726880",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_gyro_shop_6881",
+              "name": "FOREMAN GYRO SHOP",
+              "number": "6881",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_gun_shop_01769726882",
+              "name": "OIC GUN SHOP",
+              "number": "01769726882",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_gun_shop_6883",
+              "name": "FOREMAN GUN SHOP",
+              "number": "6883",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_president_bhatiary_shop_01769726790",
+              "name": "PRESIDENT BHATIARY SHOP",
+              "number": "01769726790",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_oic_bhatiary_shop_01769726884",
+              "name": "OIC BHATIARY SHOP",
+              "number": "01769726884",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_bhatiary_shop_6885",
+              "name": "FOREMAN BHATIARY SHOP",
+              "number": "6885",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_anti_submarine_work_shop_6886",
+              "name": "ANTI SUBMARINE WORK SHOP",
+              "number": "6886",
+              "icon": "csd"
+            },
+            {
+              "id": "csd_foreman_lagging_shop_6843",
+              "name": "FOREMAN LAGGING SHOP",
+              "number": "6843",
+              "icon": "csd"
+            }
+          ]
+        },
+        {
+          "title": "COMSUB",
+          "icon": "comsub",
+          "activity_title": "COMSUB",
+          "contacts": [
+            {
+              "id": "comsub_pa_to_comsub_2101",
+              "name": "PA TO COMSUB",
+              "number": "2101",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_cash_office_staff_2111",
+              "name": "CASH OFFICE STAFF",
+              "number": "2111",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_store_office_staff_2111",
+              "name": "STORE OFFICE STAFF",
+              "number": "2111",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_sfeo_office_staff_01769862114",
+              "name": "SFEO OFFICE STAFF",
+              "number": "01769862114",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_sflo_office_staff_2116",
+              "name": "SFLO OFFICE STAFF",
+              "number": "2116",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_secy_office_2117",
+              "name": "SECY OFFICE",
+              "number": "2117",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_sfgo_office_staff_2123",
+              "name": "SFGO OFFICE STAFF",
+              "number": "2123",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_sfto_office_staff_2120",
+              "name": "SFTO OFFICE STAFF",
+              "number": "2120",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_mso_2137",
+              "name": "MSO",
+              "number": "2137",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_receiption_2139",
+              "name": "RECEIPTION",
+              "number": "2139",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_ops_room_2140",
+              "name": "OPS ROOM",
+              "number": "2140",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_sfso_security_staff_2135",
+              "name": "SFSO SECURITY STAFF",
+              "number": "2135",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_sfso_it_office_staff_2118",
+              "name": "SFSO(IT) OFFICE STAFF",
+              "number": "2118",
+              "icon": "comsub"
+            },
+            {
+              "id": "comsub_submarine_guard_room_01769862130",
+              "name": "SUBMARINE GUARD ROOM",
+              "number": "01769862130",
+              "icon": "comsub"
+            }
+          ]
+        },
+        {
+          "title": "BNS PEKUA",
+          "icon": "pekua",
+          "activity_title": "BNS PEKUA",
+          "contacts": [
+            {
+              "id": "bns_pekua_secy_to_co_2202",
+              "name": "SECY TO CO",
+              "number": "2202",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_pekua_base_supply_officer_2205",
+              "name": "BASE SUPPLY OFFICER",
+              "number": "2205",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_pekua_eo_mto_2225",
+              "name": "EO (MTO)",
+              "number": "2225",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_pekua_project_secy_office_2208",
+              "name": "PROJECT SECY OFFICE",
+              "number": "2208",
+              "icon": "pekua"
+            }
+          ]
+        },
+        {
+          "title": "COMNAV",
+          "icon": "comnav",
+          "activity_title": "COMNAV",
+          "contacts": [
+            {
+              "id": "comnav_pa_to_comnav_2501",
+              "name": "PA TO COMNAV",
+              "number": "2501",
+              "icon": "comnav"
+            },
+            {
+              "id": "comnav_secy_to_comnav_01769812502",
+              "name": "SECY TO COMNAV",
+              "number": "01769812502",
+              "icon": "comnav"
+            },
+            {
+              "id": "comnav_cso_to_comnav_01769812504",
+              "name": "CSO TO COMNAV",
+              "number": "01769812504",
+              "icon": "comnav"
+            },
+            {
+              "id": "comnav_aso_o_01769812507",
+              "name": "ASO(O)",
+              "number": "01769812507",
+              "icon": "comnav"
+            },
+            {
+              "id": "comnav_aso_o_staff_2515",
+              "name": "ASO(O) STAFF",
+              "number": "2515",
+              "icon": "comnav"
+            },
+            {
+              "id": "comnav_ops_room_2540",
+              "name": "OPS ROOM",
+              "number": "2540",
+              "icon": "comnav"
+            },
+            {
+              "id": "comnav_mso_2537",
+              "name": "MSO",
+              "number": "2537",
+              "icon": "comnav"
+            }
+          ]
+        },
+        {
+          "title": "Chief Hydrographer",
+          "icon": "chief_hydrographer",
+          "activity_title": "Chief Hydrographer",
+          "contacts": [
+            {
+              "id": "chief_hydrographer_pa_to_chief_hydro_2401",
+              "name": "PA TO CHIEF HYDRO",
+              "number": "2401",
+              "icon": "chief_hydrographer"
+            },
+            {
+              "id": "chief_hydrographer_ops_room_2408",
+              "name": "OPS ROOM",
+              "number": "2408",
+              "icon": "chief_hydrographer"
+            },
+            {
+              "id": "chief_hydrographer_so_o_staff_2409",
+              "name": "SO(O) STAFF",
+              "number": "2409",
+              "icon": "chief_hydrographer"
+            },
+            {
+              "id": "chief_hydrographer_so_e_staff_2414",
+              "name": "SO(E) STAFF",
+              "number": "2414",
+              "icon": "chief_hydrographer"
+            },
+            {
+              "id": "chief_hydrographer_chief_hydro_secy_office_2424",
+              "name": "CHIEF HYDRO SECY OFFICE",
+              "number": "2424",
+              "icon": "chief_hydrographer"
+            }
+          ]
+        },
+        {
+          "title": "Patenga",
+          "icon": "patenga",
+          "activity_title": "BNS Patenga",
+          "contacts": [
+            {
+              "id": "bns_patenga_secy_to_co_4201",
+              "name": "SECY TO CO",
+              "number": "4201",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_ships_office_4204",
+              "name": "SHIPS OFFICE",
+              "number": "4204",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_dmo_16",
+              "name": "DMO",
+              "number": "16",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_moic_4205",
+              "name": "MOIC",
+              "number": "4205",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_moic_2_4262",
+              "name": "MOIC-2",
+              "number": "4262",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_moic_ot_4228",
+              "name": "MOIC OT",
+              "number": "4228",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_mi_room_01769727777",
+              "name": "MI ROOM",
+              "number": "01769727777",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_patenga_qm_01769724221",
+              "name": "PATENGA QM",
+              "number": "01769724221",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_dental_surgeon_1_4208",
+              "name": "DENTAL SURGEON-1",
+              "number": "4208",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_dental_surgeon_2_4217",
+              "name": "DENTAL SURGEON-2",
+              "number": "4217",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_orthopaedic_specialist_4209",
+              "name": "ORTHOPAEDIC SPECIALIST",
+              "number": "4209",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_surgical_specialist_1_4210",
+              "name": "SURGICAL SPECIALIST-1",
+              "number": "4210",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_surgical_specialist_2_4236",
+              "name": "SURGICAL SPECIALIST-2",
+              "number": "4236",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_surgical_ward_4237",
+              "name": "SURGICAL WARD",
+              "number": "4237",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_psychiatrist_4211",
+              "name": "PSYCHIATRIST",
+              "number": "4211",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_psychiatrist_ward_4223",
+              "name": "PSYCHIATRIST WARD",
+              "number": "4223",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_medical_specialist_1_4212",
+              "name": "MEDICAL SPECIALIST-1",
+              "number": "4212",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_medical_specialist_2_4213",
+              "name": "MEDICAL SPECIALIST-2",
+              "number": "4213",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_medical_ward_4235",
+              "name": "MEDICAL WARD",
+              "number": "4235",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_post_operative_ward_4214",
+              "name": "POST OPERATIVE WARD",
+              "number": "4214",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_child_specialist_4218",
+              "name": "CHILD SPECIALIST",
+              "number": "4218",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_child_ward_4255",
+              "name": "CHILD WARD",
+              "number": "4255",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_eye_specialist_4231",
+              "name": "EYE SPECIALIST",
+              "number": "4231",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_eye_ward_4219",
+              "name": "EYE WARD",
+              "number": "4219",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_gynecologists_1_4222",
+              "name": "GYNECOLOGISTS-1",
+              "number": "4222",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_gynecologists_2_4224",
+              "name": "GYNECOLOGISTS-2",
+              "number": "4224",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_gynecologists_3_4263",
+              "name": "GYNECOLOGISTS-3",
+              "number": "4263",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_gyne_ward_1_sailors_4224",
+              "name": "GYNE WARD-1 (SAILORS)",
+              "number": "4224",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_gyne_ward_2_4239",
+              "name": "GYNE WARD-2",
+              "number": "4239",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_screen_specialist_4225",
+              "name": "SCREEN SPECIALIST",
+              "number": "4225",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_radiology_xray_staff_4226",
+              "name": "RADIOLOGY (XRAY) STAFF",
+              "number": "4226",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_pathologist_4227",
+              "name": "PATHOLOGIST",
+              "number": "4227",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_icu_4229",
+              "name": "ICU",
+              "number": "4229",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_ent_specialist_4230",
+              "name": "ENT SPECIALIST",
+              "number": "4230",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_officers_ward_4232",
+              "name": "OFFICERS WARD",
+              "number": "4232",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_officers_family_gyne_ward_4256",
+              "name": "OFFICERS FAMILY/GYNE WARD",
+              "number": "4256",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_vip_ward_1_4233",
+              "name": "VIP WARD-1",
+              "number": "4233",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_vip_ward_2_4234",
+              "name": "VIP WARD-2",
+              "number": "4234",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_ward_master_4240",
+              "name": "WARD MASTER",
+              "number": "4240",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_isolation_ward_4241",
+              "name": "ISOLATION WARD",
+              "number": "4241",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_vip_family_ward_4242",
+              "name": "VIP FAMILY WARD",
+              "number": "4242",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_medical_store_4243",
+              "name": "MEDICAL STORE",
+              "number": "4243",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_sub_medical_store_4245",
+              "name": "SUB MEDICAL STORE",
+              "number": "4245",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_m_t_pool_4246",
+              "name": "M T POOL",
+              "number": "4246",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_sailors_family_ward_4247",
+              "name": "SAILORS FAMILY WARD",
+              "number": "4247",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_radiologist_4248",
+              "name": "RADIOLOGIST",
+              "number": "4248",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_pathology_laboratory_4249",
+              "name": "PATHOLOGY (LABORATORY)",
+              "number": "4249",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_physiotherapy_room_4250",
+              "name": "PHYSIOTHERAPY ROOM",
+              "number": "4250",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_anesthesiologist_4251",
+              "name": "ANESTHESIOLOGIST",
+              "number": "4251",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_cwc_sra_1_4257",
+              "name": "CWC (SRA-1)",
+              "number": "4257",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_cwc_sra_2_4259",
+              "name": "CWC (SRA-2)",
+              "number": "4259",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_cardiologist_ecg_4261",
+              "name": "CARDIOLOGIST/ECG",
+              "number": "4261",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_gunnery_office_4265",
+              "name": "GUNNERY OFFICE",
+              "number": "4265",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_patenga_conference_room_4260",
+              "name": "CONFERENCE ROOM",
+              "number": "4260",
+              "icon": "patenga"
+            }
+          ]
+        },
+        {
+          "title": "ISSA KHAN",
+          "icon": "ik",
+          "activity_title": "BNS ISSA KHAN",
+          "contacts": [
+            {
+              "id": "bns_issa_khan_pa_to_co_4401",
+              "name": "PA TO CO",
+              "number": "4401",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_exo_4403",
+              "name": "EXO",
+              "number": "4403",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_exo_staff_4404",
+              "name": "EXO STAFF",
+              "number": "4404",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_supply_officer_4405",
+              "name": "SUPPLY OFFICER",
+              "number": "4405",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_cash_section_4406",
+              "name": "CASH SECTION",
+              "number": "4406",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_aso_cash_4407",
+              "name": "ASO (CASH)",
+              "number": "4407",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_pay_office_staff_4408",
+              "name": "PAY OFFICE STAFF",
+              "number": "4408",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_ships_office_4410",
+              "name": "SHIPS OFFICE",
+              "number": "4410",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_victualling_office_4412",
+              "name": "VICTUALLING OFFICE",
+              "number": "4412",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_clothing_office_4414",
+              "name": "CLOTHING OFFICE",
+              "number": "4414",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_gunnery_office_4417",
+              "name": "GUNNERY OFFICE",
+              "number": "4417",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_mso_4419",
+              "name": "MSO",
+              "number": "4419",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_ood_4420",
+              "name": "OOD",
+              "number": "4420",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_aood_4421",
+              "name": "AOOD",
+              "number": "4421",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_cppod_4422",
+              "name": "CPPOD",
+              "number": "4422",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_ik_qm_4423",
+              "name": "IK QM",
+              "number": "4423",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_area_library_4424",
+              "name": "AREA LIBRARY",
+              "number": "4424",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_maintainence_office_4426",
+              "name": "MAINTAINENCE OFFICE",
+              "number": "4426",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_regulating_office_4430",
+              "name": "REGULATING OFFICE",
+              "number": "4430",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_secy_office_4431",
+              "name": "SECY OFFICE",
+              "number": "4431",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sick_bay_4434",
+              "name": "SICK BAY",
+              "number": "4434",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_blo_office_4437",
+              "name": "BLO OFFICE",
+              "number": "4437",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_npm_office_ctg_4152",
+              "name": "NPM OFFICE CTG",
+              "number": "4152",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sports_office_4430",
+              "name": "SPORTS OFFICE",
+              "number": "4430",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_ships_pti_4441",
+              "name": "SHIPS PTI",
+              "number": "4441",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_boson_store_4443",
+              "name": "BOSON STORE",
+              "number": "4443",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_fire_brigade_4444",
+              "name": "FIRE BRIGADE",
+              "number": "4444",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_mt_pool_01769724446",
+              "name": "MT POOL",
+              "number": "01769724446",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_mt_chief_4447",
+              "name": "MT CHIEF",
+              "number": "4447",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_ships_company_dining_hall_4448",
+              "name": "SHIPS COMPANY DINING HALL",
+              "number": "4448",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sailors_recreation_center_4449",
+              "name": "SAILORS RECREATION CENTER",
+              "number": "4449",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_nsko_staff_4451",
+              "name": "NSKO STAFF",
+              "number": "4451",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_reproduction_cell_4453",
+              "name": "REPRODUCTION CELL",
+              "number": "4453",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_jcos_mess_4455",
+              "name": "JCOS MESS",
+              "number": "4455",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_pos_mess_4457",
+              "name": "POS MESS",
+              "number": "4457",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_contingent_cell_4461",
+              "name": "CONTINGENT CELL",
+              "number": "4461",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_base_security_office_4465",
+              "name": "BASE SECURITY OFFICE",
+              "number": "4465",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_nou_scout_office_4466",
+              "name": "NOU SCOUT OFFICE",
+              "number": "4466",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_bashan_char_staff_4469",
+              "name": "BASHAN CHAR STAFF",
+              "number": "4469",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_boat_pool_staff_4471",
+              "name": "BOAT POOL STAFF",
+              "number": "4471",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_law_office_4473",
+              "name": "LAW OFFICE",
+              "number": "4473",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_bnfwa_office_01769724476",
+              "name": "BNFWA OFFICE",
+              "number": "01769724476",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_cctv_control_4480",
+              "name": "CCTV CONTROL",
+              "number": "4480",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_srb_section_4481",
+              "name": "SRB SECTION",
+              "number": "4481",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_diving_store_4483",
+              "name": "DIVING STORE",
+              "number": "4483",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_fleet_club_01769724080",
+              "name": "FLEET CLUB",
+              "number": "01769724080",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_internet_office_01769724488",
+              "name": "INTERNET OFFICE",
+              "number": "01769724488",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_dish_complain_4489",
+              "name": "DISH COMPLAIN",
+              "number": "4489",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_officers_barbar_shop_4490",
+              "name": "OFFICERS BARBAR SHOP",
+              "number": "4490",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_admin_block_qm_4493",
+              "name": "ADMIN BLOCK QM",
+              "number": "4493",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_ao_civ_4293",
+              "name": "AO(CIV)",
+              "number": "4293",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_superintendent_4294",
+              "name": "SUPERINTENDENT",
+              "number": "4294",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_fis_office_ctg_4169",
+              "name": "FIS OFFICE CTG",
+              "number": "4169",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_fis_photo_cell_4166",
+              "name": "FIS PHOTO CELL",
+              "number": "4166",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_area_secy_office_01769724129",
+              "name": "AREA SECY OFFICE",
+              "number": "01769724129",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_dgfi_desk_ctg_01730524971",
+              "name": "DGFI DESK CTG",
+              "number": "01730524971",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_exchange_ctg_88031740391",
+              "name": "EXCHANGE CTG",
+              "number": "+88031740391",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_central_training_chief_4504",
+              "name": "CENTRAL TRAINING CHIEF",
+              "number": "4504",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_nd_school_4514",
+              "name": "TRAINING CHIEF-ND SCHOOL",
+              "number": "4514",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_gunnery_school_4524",
+              "name": "TRAINING CHIEF-GUNNERY SCHOOL",
+              "number": "4524",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_signal_school_4534",
+              "name": "TRAINING CHIEF-SIGNAL SCHOOL",
+              "number": "4534",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_tas_school_4544",
+              "name": "TRAINING CHIEF-TAS SCHOOL",
+              "number": "4544",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_music_school_4547",
+              "name": "TRAINING CHIEF-MUSIC SCHOOL",
+              "number": "4547",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_pt_school_4564",
+              "name": "TRAINING CHIEF-PT SCHOOL",
+              "number": "4564",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_nbcd_school_4574",
+              "name": "TRAINING CHIEF-NBCD SCHOOL",
+              "number": "4574",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_training_chief_computer_school_4584",
+              "name": "TRAINING CHIEF-COMPUTER SCHOOL",
+              "number": "4584",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_bn_college_office_4551",
+              "name": "BN COLLEGE OFFICE",
+              "number": "4551",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_anchorage_school_office_4553",
+              "name": "ANCHORAGE SCHOOL OFFICE",
+              "number": "4553",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_shishu_niketon_1_4556",
+              "name": "SHISHU NIKETON-1",
+              "number": "4556",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_shishu_niketon_1_4557",
+              "name": "SHISHU NIKETON-1",
+              "number": "4557",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_indoor_sports_complex_4442",
+              "name": "INDOOR SPORTS COMPLEX",
+              "number": "4442",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_area_sports_complex_office_4438",
+              "name": "AREA SPORTS COMPLEX OFFICE",
+              "number": "4438",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_tennis_ground_4439",
+              "name": "TENNIS GROUND",
+              "number": "4439",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_west_gate_4070",
+              "name": "West Gate",
+              "number": "4070",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_hospital_gate_4072",
+              "name": "Hospital Gate",
+              "number": "4072",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_avenue_gate_4071",
+              "name": "Avenue Gate",
+              "number": "4071",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_dockyard_rail_gate_4073",
+              "name": "Dockyard Rail Gate",
+              "number": "4073",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sra_1_no_1_4077",
+              "name": "SRA-1 NO-1",
+              "number": "4077",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sra_1_no_2_4078",
+              "name": "SRA-1 NO-2",
+              "number": "4078",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sra_2_no_1_4079",
+              "name": "SRA-2 NO-1",
+              "number": "4079",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_sra_2_no_2_4080",
+              "name": "SRA-2 NO-2",
+              "number": "4080",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_1_4091",
+              "name": "OP-1",
+              "number": "4091",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_2_4092",
+              "name": "OP-2",
+              "number": "4092",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_3_4093",
+              "name": "OP-3",
+              "number": "4093",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_4_4094",
+              "name": "OP-4",
+              "number": "4094",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_5_4095",
+              "name": "OP-5",
+              "number": "4095",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_6_4096",
+              "name": "OP-6",
+              "number": "4096",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_7_4097",
+              "name": "OP-7",
+              "number": "4097",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_8_4098",
+              "name": "OP-8",
+              "number": "4098",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_op_9_4099",
+              "name": "OP-9",
+              "number": "4099",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_tiger_pass_qm_01769726191",
+              "name": "TIGER PASS QM",
+              "number": "01769726191",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_issa_khan_love_lane_gate_01769744608",
+              "name": "LOVE LANE GATE",
+              "number": "01769744608",
+              "icon": "ik"
+            }
+          ]
+        },
+        {
+          "title": "NSD CTG",
+          "icon": "nsd_ctg",
+          "activity_title": "NSD CTG",
+          "contacts": [
+            {
+              "id": "nsd_ctg_pa_to_co_4301",
+              "name": "PA TO CO",
+              "number": "4301",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_secy_to_co_4302",
+              "name": "SECY TO CO",
+              "number": "4302",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_ood_4320",
+              "name": "OOD",
+              "number": "4320",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_cood_4322",
+              "name": "COOD",
+              "number": "4322",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_guradroom_qm_4323",
+              "name": "GURADROOM QM",
+              "number": "4323",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_cash_section_4313",
+              "name": "CASH SECTION",
+              "number": "4313",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_issue_control_4315",
+              "name": "ISSUE CONTROL",
+              "number": "4315",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_lp_section_4318",
+              "name": "LP SECTION",
+              "number": "4318",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_customer_care_4321",
+              "name": "CUSTOMER CARE",
+              "number": "4321",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_technical_section_4326",
+              "name": "TECHNICAL SECTION",
+              "number": "4326",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_pol_group_4328",
+              "name": "POL GROUP",
+              "number": "4328",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_indent_section_4330",
+              "name": "INDENT SECTION",
+              "number": "4330",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_shipping_section_4332",
+              "name": "SHIPPING SECTION",
+              "number": "4332",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_bill_section_4334",
+              "name": "BILL SECTION",
+              "number": "4334",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_stationay_group_4336",
+              "name": "STATIONAY GROUP",
+              "number": "4336",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_e_group_4338",
+              "name": "E GROUP",
+              "number": "4338",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_e_bhatiary_group_4340",
+              "name": "E-BHATIARY GROUP",
+              "number": "4340",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_return_store_4342",
+              "name": "RETURN STORE",
+              "number": "4342",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_l_e_section_4351",
+              "name": "L \u0026 E SECTION",
+              "number": "4351",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_b_group_4353",
+              "name": "B-GROUP",
+              "number": "4353",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_d_group_4355",
+              "name": "D-GROUP",
+              "number": "4355",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_clothing_group_4357",
+              "name": "CLOTHING GROUP",
+              "number": "4357",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_submarine_group_4359",
+              "name": "SUBMARINE GROUP",
+              "number": "4359",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_maintenance_office_4360",
+              "name": "MAINTENANCE OFFICE",
+              "number": "4360",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_chinese_e_group_4362",
+              "name": "CHINESE E-GROUP",
+              "number": "4362",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_chinese_f_group_4365",
+              "name": "CHINESE F-GROUP",
+              "number": "4365",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_western_f_l_4363",
+              "name": "WESTERN F(L)",
+              "number": "4363",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_f_l_group_4367",
+              "name": "F (L) GROUP",
+              "number": "4367",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_f_r_group_4369",
+              "name": "F (R) GROUP",
+              "number": "4369",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_aviation_group_4371",
+              "name": "AVIATION GROUP",
+              "number": "4371",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_mosg_group_4373",
+              "name": "MOSG GROUP",
+              "number": "4373",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_n_group_submarine_2826",
+              "name": "N-GROUP SUBMARINE",
+              "number": "2826",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_security_office_4375",
+              "name": "SECURITY OFFICE",
+              "number": "4375",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_cataloging_section_4376",
+              "name": "CATALOGING SECTION",
+              "number": "4376",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_cr_local_4378",
+              "name": "CR LOCAL",
+              "number": "4378",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_regulaing_office_4379",
+              "name": "REGULAING OFFICE",
+              "number": "4379",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_erp_section_4380",
+              "name": "ERP SECTION",
+              "number": "4380",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_do_technical_4381",
+              "name": "DO (TECHNICAL)",
+              "number": "4381",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_do_non_technical_4383",
+              "name": "DO (NON-TECHNICAL)",
+              "number": "4383",
+              "icon": "nsd_ctg"
+            },
+            {
+              "id": "nsd_ctg_ac_civ_office_4382",
+              "name": "AC (CIV) OFFICE",
+              "number": "4382",
+              "icon": "nsd_ctg"
+            }
+          ]
+        },
+        {
+          "title": "BN Dyd CTG",
+          "icon": "bndockyard",
+          "activity_title": "BN Dyd CTG",
+          "contacts": [
+            {
+              "id": "bn_dyd_ctg_secy_to_co_6901",
+              "name": "SECY TO CO",
+              "number": "6901",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_exo_01769726902",
+              "name": "EXO",
+              "number": "01769726902",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_exo_writter_6903",
+              "name": "EXO WRITTER",
+              "number": "6903",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_supply_officer_01769726905",
+              "name": "SUPPLY OFFICER",
+              "number": "01769726905",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_ood_dockyard_01769726920",
+              "name": "OOD DOCKYARD",
+              "number": "01769726920",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_cpood_quarter_master_6923",
+              "name": "CPOOD/ QUARTER MASTER",
+              "number": "6923",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_pay_office_6906",
+              "name": "PAY OFFICE",
+              "number": "6906",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_vic_clothing_office_6909",
+              "name": "VIC/ CLOTHING OFFICE",
+              "number": "6909",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_gunnery_office_6912",
+              "name": "GUNNERY OFFICE",
+              "number": "6912",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_regulating_office_6914",
+              "name": "REGULATING OFFICE",
+              "number": "6914",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_oic_technical_institute_6947",
+              "name": "OIC TECHNICAL INSTITUTE",
+              "number": "6947",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_mto_6945",
+              "name": "MTO",
+              "number": "6945",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_mt_pool_01769726946",
+              "name": "MT POOL",
+              "number": "01769726946",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_smo_dockyard_01769726934",
+              "name": "SMO DOCKYARD",
+              "number": "01769726934",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_dockyard_sickbay_6935",
+              "name": "DOCKYARD SICKBAY",
+              "number": "6935",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_dockyard_mso_01769726937",
+              "name": "DOCKYARD MSO",
+              "number": "01769726937",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_csti_6939",
+              "name": "CSTI",
+              "number": "6939",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_boson_store_6924",
+              "name": "BOSON STORE",
+              "number": "6924",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_security_office_6925",
+              "name": "SECURITY OFFICE",
+              "number": "6925",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_jcos_mess_6928",
+              "name": "JCOs MESS",
+              "number": "6928",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dyd_ctg_pos_mess_6930",
+              "name": "POs MESS",
+              "number": "6930",
+              "icon": "bndockyard"
+            }
+          ]
+        },
+        {
+          "title": "NASD CTG",
+          "icon": "nasd_ctg",
+          "activity_title": "NASD CTG",
+          "contacts": [
+            {
+              "id": "nasd_ctg_naso_01769726960",
+              "name": "NASO",
+              "number": "01769726960",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_dnaso_01769726962",
+              "name": "DNASO",
+              "number": "01769726962",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_oic_gun_wharf_factory_aaso_01769726963",
+              "name": "OIC GUN WHARF FACTORY/ AASO",
+              "number": "01769726963",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_f_gun_wharf_factory_2_6967",
+              "name": "F/ GUN WHARF FACTORY-2",
+              "number": "6967",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_foreman_6968",
+              "name": "FOREMAN",
+              "number": "6968",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_secretariat_6964",
+              "name": "SECRETARIAT",
+              "number": "6964",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_ic_web_equipment_6965",
+              "name": "IC WEB EQUIPMENT",
+              "number": "6965",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_nasd_sentry_post_6966",
+              "name": "NASD SENTRY POST",
+              "number": "6966",
+              "icon": "nasd_ctg"
+            },
+            {
+              "id": "nasd_ctg_nasd_gw_01769726965",
+              "name": "NASD GW",
+              "number": "01769726965",
+              "icon": "nasd_ctg"
+            }
+          ]
+        },
+        {
+          "title": "Pilot Mobile",
+          "icon": "pilot_mob_no",
+          "activity_title": "CTG Pilot Mobile",
+          "contacts": [
+            {
+              "id": "ctg_pilot_mobile_cdre_muztafizur_rahman_m_h_m_m_1_01712760560",
+              "name": "Cdre Muztafizur Rahman,\nM(H\u0026M)- M-1",
+              "number": "01712760560",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_faridul_alam_dc_m_2_01756618477",
+              "name": "Capt M Faridul Alam,\n(DC)- M-2",
+              "number": "01756618477",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_zahirul_islam_hm_m_3_01819649584",
+              "name": "Capt M Zahirul Islam,\n(HM)- M-3",
+              "number": "01819649584",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_abu_sufian_dm_m_4_01711222830",
+              "name": "Capt M Abu Sufian,\n(DM)- M-4",
+              "number": "01711222830",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_mostahidul_islam_ahm_m_5_01716731640",
+              "name": "Capt M Mostahidul Islam,\n(AHM)- M-5",
+              "number": "01716731640",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_rahmat_ullah_khan_ahm_m_5_a_01711287268",
+              "name": "Capt Rahmat Ullah Khan,\n(AHM)- M-5(A)",
+              "number": "01711287268",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_tanvir_rahman_ahm_m_6_01716265602",
+              "name": "Capt M Tanvir Rahman,\n(AHM)- M-6",
+              "number": "01716265602",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_asm_kamrul_alam_ahm_m_7_01819353664",
+              "name": "Capt ASM Kamrul Alam,\n(AHM)- M-7",
+              "number": "01819353664",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_m_masud_hossain_pilot_m_8_01739352782",
+              "name": "Mr M Masud Hossain,\n(PILOT)- M-8",
+              "number": "01739352782",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_samsul_mannan_ahm_m_8a_01819025003",
+              "name": "Capt Samsul Mannan,\n(AHM)- M-8A",
+              "number": "01819025003",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_ataul_hakim_siddiq_ahm_m_9_01715433327",
+              "name": "Capt M Ataul Hakim Siddiq, (AHM)- M-9",
+              "number": "01715433327",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_mostasim_billah_ahm_m_10_01915871011",
+              "name": "Capt M Mostasim Billah,\n(AHM)- M-10",
+              "number": "01915871011",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_shamsuddin_pilot_m_11_01710740503",
+              "name": "Capt M Shamsuddin,\n(PILOT)- M-11",
+              "number": "01710740503",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_m_sharif_khan_ahm_m_12_01726783153",
+              "name": "Capt M Sharif Khan,\n(AHM)- M-12",
+              "number": "01726783153",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_m_gawsul_azam_rasel_pilot_m_13_01783730327",
+              "name": "Mr M Gawsul Azam Rasel,\n(PILOT)- M-13",
+              "number": "01783730327",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_m_nur_alam_siddique_pilot_m_14_01717547727",
+              "name": "Mr M Nur Alam Siddique,\n(PILOT)- M-14",
+              "number": "01717547727",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_capt_asif_ahmed_pilot_m_15_01711010366",
+              "name": "Capt Asif Ahmed,\n(PILOT)- M-15",
+              "number": "01711010366",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_m_abul_kher_pilot_m_16_01775663366",
+              "name": "Mr M Abul Kher,\n(PILOT)- M-16",
+              "number": "01775663366",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_m_fazle_rabbi_pilot_m_17_01724210831",
+              "name": "Mr M Fazle Rabbi,\n(PILOT)- M-17",
+              "number": "01724210831",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_ajm_rabiuzzaman_pilot_m_18",
+              "name": "Mr AJM Rabiuzzaman,\n(PILOT)- M-18",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_elias_mooring_sareng_m_19_01712868399",
+              "name": "Mr Elias, (Mooring\nSareng)- M-19",
+              "number": "01712868399",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "ctg_pilot_mobile_mr_m_asad_water_measurement_m_20_01818104002",
+              "name": "Mr M Asad, (Water\nMeasurement)- M-20",
+              "number": "01818104002",
+              "icon": "pilot_mob_no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "kln_area",
+      "title": "Khulna Area",
+      "grid_items": [
+        {
+          "title": "Ships Gangway",
+          "icon": "ships_gangway",
+          "activity_title": "KLN Ships Gangway",
+          "contacts": [
+            {
+              "id": "kln_ships_gangway_bns_abu_bakr_01769796299",
+              "name": "BNS ABU BAKR",
+              "number": "01769796299",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_ali_haider_01769796219",
+              "name": "BNS ALI HAIDER",
+              "number": "01769796219",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_abu_ubaidah_01769796359",
+              "name": "BNS ABU UBAIDAH",
+              "number": "01769796359",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_umar_farooq_01769796339",
+              "name": "BNS UMAR FAROOQ",
+              "number": "01769796339",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_bijoy_01769796239",
+              "name": "BNS BIJOY",
+              "number": "01769796239",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_dheleshwari_01769796279",
+              "name": "BNS DHELESHWARI",
+              "number": "01769796279",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_durgam_01769794629",
+              "name": "BNS DURGAM",
+              "number": "01769794629",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_nishan_01769794619",
+              "name": "BNS NISHAN",
+              "number": "01769794619",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_sangu_01769796319",
+              "name": "BNS SANGU",
+              "number": "01769796319",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_turag_01769794539",
+              "name": "BNS TURAG",
+              "number": "01769794539",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_kapatakhaya_01769794509",
+              "name": "BNS KAPATAKHAYA",
+              "number": "01769794509",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_korotoa_01769794519",
+              "name": "BNS KOROTOA",
+              "number": "01769794519",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_gomati_01769794529",
+              "name": "BNS GOMATI",
+              "number": "01769794529",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_surovi_01769794569",
+              "name": "BNS SUROVI",
+              "number": "01769794569",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_meghna_01769796249",
+              "name": "BNS MEGHNA",
+              "number": "01769796249",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_jamuna_01769796259",
+              "name": "BNS JAMUNA",
+              "number": "01769796259",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_aparajeya_01769794579",
+              "name": "BNS APARAJEYA",
+              "number": "01769794579",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_padma_01769794559",
+              "name": "BNS PADMA",
+              "number": "01769794559",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_s_akter_uddin_01769794689",
+              "name": "BNS S/AKTER UDDIN",
+              "number": "01769794689",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_s_mohibullah_01769726359",
+              "name": "BNS S/MOHIBULLAH",
+              "number": "01769726359",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_salam_01769784519",
+              "name": "BNS SALAM",
+              "number": "01769784519",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_barkat_01769784534",
+              "name": "BNS BARKAT",
+              "number": "01769784534",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_bishkhali_01769794699",
+              "name": "BNS BISHKHALI",
+              "number": "01769794699",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_tista_01769784539",
+              "name": "BNS TISTA",
+              "number": "01769784539",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_chitra_01769784544",
+              "name": "BNS CHITRA",
+              "number": "01769784544",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_titas_01769784539",
+              "name": "BNS TITAS",
+              "number": "01769784539",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bns_kushiyara_01769784529",
+              "name": "BNS KUSHIYARA",
+              "number": "01769784529",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_bnt_rupsha_01769794549",
+              "name": "BNT RUPSHA",
+              "number": "01769794549",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_lct_101_01769794609",
+              "name": "LCT-101",
+              "number": "01769794609",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_lct_102_01769794601",
+              "name": "LCT-102",
+              "number": "01769794601",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_lct_104_01769794631",
+              "name": "LCT-104",
+              "number": "01769794631",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_lcvp_011_01769794603",
+              "name": "LCVP-011",
+              "number": "01769794603",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_lcvp_012_01769794605",
+              "name": "LCVP-012",
+              "number": "01769794605",
+              "icon": "ships_gangway"
+            },
+            {
+              "id": "kln_ships_gangway_lcvp_013_01769794607",
+              "name": "LCVP-013",
+              "number": "01769794607",
+              "icon": "ships_gangway"
+            }
+          ]
+        },
+        {
+          "title": "All MSO/RCO",
+          "icon": "all_mso_rco",
+          "activity_title": "KLN All MSO/RCO",
+          "contacts": [
+            {
+              "id": "kln_all_mso_rco_comkhul_mso_01769784137",
+              "name": "COMKHUL MSO",
+              "number": "01769784137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_titumir_mso_01769784337",
+              "name": "TITUMIR MSO",
+              "number": "01769784337",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_upasham_mso_01769784237",
+              "name": "UPASHAM MSO",
+              "number": "01769784237",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_comflot_west_mso_01769796137",
+              "name": "COMFLOT WEST MSO",
+              "number": "01769796137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_mongla_mso_01769794137",
+              "name": "MONGLA MSO",
+              "number": "01769794137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_nsd_khulna_mso_01769784837",
+              "name": "NSD KHULNA MSO",
+              "number": "01769784837",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_rco_khulna_01769784133",
+              "name": "RCO KHULNA",
+              "number": "01769784133",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_rco_mongla_01769784173",
+              "name": "RCO MONGLA",
+              "number": "01769784173",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_solam_mso_01769834737",
+              "name": "SOLAM MSO",
+              "number": "01769834737",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_bso_khulna_mso_01769784550",
+              "name": "BSO KHULNA MSO",
+              "number": "01769784550",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_sere_bangla_mso_01769844321",
+              "name": "SERE BANGLA MSO",
+              "number": "01769844321",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "kln_all_mso_rco_zonal_comd_east_01769442066",
+              "name": "ZONAL COMD EAST",
+              "number": "01769442066",
+              "icon": "all_mso_rco"
+            }
+          ]
+        },
+        {
+          "title": "Base QM/Office Staff",
+          "icon": "base_qm",
+          "activity_title": "KLN Base QM/Office Staff",
+          "contacts": [
+            {
+              "id": "kln_base_qm_office_staff_mongla_mt_pool_01769790022",
+              "name": "MONGLA MT POOL",
+              "number": "01769790022",
+              "icon": "base_qm"
+            }
+          ]
+        },
+        {
+          "title": "COMFLOT WEST",
+          "icon": "fleet_headquarters",
+          "activity_title": "COMFLOT WEST",
+          "contacts": [
+            {
+              "id": "comflot_west_cso_to_comflot_west_02477794081",
+              "name": "CSO TO COMFLOT WEST",
+              "number": "02477794081",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "comflot_west_ops_room_staff_02477794085",
+              "name": "OPS ROOM STAFF",
+              "number": "02477794085",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "comflot_west_feo_to_comflot_west_02477794094",
+              "name": "FEO TO COMFLOT WEST",
+              "number": "02477794094",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "comflot_west_flo_to_comflot_west_02477794095",
+              "name": "FLO TO COMFLOT WEST",
+              "number": "02477794095",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "comflot_west_comflot_mso_fax_02477794077",
+              "name": "COMFLOT MSO FAX",
+              "number": "02477794077",
+              "icon": "fleet_headquarters"
+            },
+            {
+              "id": "comflot_west_qm_01769796129",
+              "name": "COMFLOT WEST QM",
+              "number": "01769796129",
+              "icon": "fleet_headquarters"
+            }
+          ]
+        },
+        {
+          "title": "MONGLA",
+          "icon": "pekua",
+          "activity_title": "BNS MONGLA",
+          "contacts": [
+            {
+              "id": "bns_mongla_co_mongla_02477794082",
+              "name": "CO MONGLA",
+              "number": "02477794082",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_mongla_exo_mongla_02477794084",
+              "name": "EXO MONGLA",
+              "number": "02477794084",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_mongla_mongla_mso_fax_02477794078",
+              "name": "MONGLA MSO FAX",
+              "number": "02477794078",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_mongla_exchange_mongla_1_02477794096",
+              "name": "EXCHANGE MONGLA-1",
+              "number": "02477794096",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_mongla_exchange_mongla_2_02477794097",
+              "name": "EXCHANGE MONGLA-2",
+              "number": "02477794097",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_mongla_exchange_mongla_3_02477794098",
+              "name": "EXCHANGE MONGLA-3",
+              "number": "02477794098",
+              "icon": "pekua"
+            }
+          ]
+        },
+        {
+          "title": "BN Dyd Mongla",
+          "icon": "bndockyard",
+          "activity_title": "BN Dockyard Mongla",
+          "contacts": [
+            {
+              "id": "bn_dockyard_mongla_gm_dyd_02477794086",
+              "name": "GM DYD",
+              "number": "02477794086",
+              "icon": "bndockyard"
+            },
+            {
+              "id": "bn_dockyard_mongla_csd_mongla_mso_fax_02477794079",
+              "name": "CSD MONGLA MSO FAX",
+              "number": "02477794079",
+              "icon": "bndockyard"
+            }
+          ]
+        },
+        {
+          "title": "Shere-E Bangla",
+          "icon": "pekua",
+          "activity_title": "BNS Shere-E-Bangla",
+          "contacts": [
+            {
+              "id": "bns_shere_e_bangla_qm_01769844404",
+              "name": "QM",
+              "number": "01769844404",
+              "icon": "pekua"
+            },
+            {
+              "id": "bns_shere_e_bangla_mso_01769844321",
+              "name": "MSO",
+              "number": "01769844321",
+              "icon": "pekua"
+            }
+          ]
+        },
+        {
+          "title": "Titumir",
+          "icon": "ik",
+          "activity_title": "BNS TITUMIR",
+          "contacts": [
+            {
+              "id": "bns_titumir_secy_to_co_4302",
+              "name": "Secy To CO",
+              "number": "4302",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_ood_4320",
+              "name": "OOD",
+              "number": "4320",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_cood_4322",
+              "name": "COOD",
+              "number": "4322",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_qm_4323",
+              "name": "QM",
+              "number": "4323",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_main_gate_4350",
+              "name": "Main Gate",
+              "number": "4350",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_ships_office_4309",
+              "name": "Ships Office",
+              "number": "4309",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_gunnery_office_4318",
+              "name": "Gunnery Office",
+              "number": "4318",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_mso_01769784337",
+              "name": "MSO",
+              "number": "01769784337",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_regulating_office_4332",
+              "name": "Regulating Office",
+              "number": "4332",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_victualling_office_4312",
+              "name": "Victualling Office",
+              "number": "4312",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_clothing_office_4314",
+              "name": "Clothing Office",
+              "number": "4314",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_pay_office_4308",
+              "name": "Pay Office",
+              "number": "4308",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_maintenance_office_4325",
+              "name": "Maintenance Office",
+              "number": "4325",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_boson_store_cbm_4327",
+              "name": "Boson Store (CBM)",
+              "number": "4327",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_sports_office_4338",
+              "name": "Sports Office",
+              "number": "4338",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_sports_complex_4339",
+              "name": "Sports Complex",
+              "number": "4339",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_band_store_office_4387",
+              "name": "Band Store Office",
+              "number": "4387",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_srb_section_4342",
+              "name": "SRB Section",
+              "number": "4342",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_mt_pool_4346",
+              "name": "MT Pool",
+              "number": "4346",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_mt_chief_4347",
+              "name": "MT Chief",
+              "number": "4347",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_fire_brigade_4444",
+              "name": "Fire Brigade",
+              "number": "4444",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_base_secy_office_4341",
+              "name": "Base Secy Office",
+              "number": "4341",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_jcos_mess_4365",
+              "name": "JCOs Mess",
+              "number": "4365",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_pos_mess_4366",
+              "name": "POs Mess",
+              "number": "4366",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_sra_gate_01769784360",
+              "name": "SRA Gate",
+              "number": "01769784360",
+              "icon": "ik"
+            },
+            {
+              "id": "bns_titumir_titumir_exchange_office_15",
+              "name": "Titumir Exchange Office",
+              "number": "15",
+              "icon": "ik"
+            }
+          ]
+        },
+        {
+          "title": "Upasham",
+          "icon": "patenga",
+          "activity_title": "BNS UPASHAM",
+          "contacts": [
+            {
+              "id": "bns_upasham_mi_room_01769787777",
+              "name": "MI Room",
+              "number": "01769787777",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_pathologist_staff_4215",
+              "name": "Pathologist Staff",
+              "number": "4215",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_dmo_4220",
+              "name": "DMO",
+              "number": "4220",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_mo_mi_room_4221",
+              "name": "MO MI Room",
+              "number": "4221",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_mi_room_2_4223",
+              "name": "MI Room- 2",
+              "number": "4223",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_moic_mi_room_4226",
+              "name": "MOIC MI Room",
+              "number": "4226",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_medical_ward_4244",
+              "name": "Medical Ward",
+              "number": "4244",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_surgical_ward_4222",
+              "name": "Surgical Ward",
+              "number": "4222",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_ward_master_4229",
+              "name": "Ward Master",
+              "number": "4229",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_mso_01769784237",
+              "name": "MSO",
+              "number": "01769784237",
+              "icon": "patenga"
+            },
+            {
+              "id": "bns_upasham_qm_4240",
+              "name": "QM",
+              "number": "4240",
+              "icon": "patenga"
+            }
+          ]
+        },
+        {
+          "title": "SOLAM",
+          "icon": "ik",
+          "activity_title": "SOLAM",
+          "contacts": [
+            {
+              "id": "solam_mso_01769834711",
+              "name": "MSO",
+              "number": "01769834711",
+              "icon": "ik"
+            },
+            {
+              "id": "solam_duty_writer_01769834723",
+              "name": "Duty Writer",
+              "number": "01769834723",
+              "icon": "ik"
+            }
+          ]
+        },
+        {
+          "title": "Pilot Mobile",
+          "icon": "pilot_mob_no",
+          "activity_title": "KLN Pilot Mobile",
+          "contacts": [
+            {
+              "id": "kln_pilot_mobile_mr_belal_uddin_m_6",
+              "name": "Mr Belal Uddin- M-6",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_aminur_rahman_m_7",
+              "name": "Mr Aminur Rahman- M-7",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_reazur_rahman_m_8",
+              "name": "Mr Reazur Rahman- M-8",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_faruque_ahmed_m_9",
+              "name": "Mr Faruque Ahmed- M-9",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_khiruzzaman_m_10",
+              "name": "Mr Khiruzzaman- M-10",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_mamunur_rashid_m_11",
+              "name": "Mr Mamunur Rashid- M-11",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_humayon_kabir_m_12",
+              "name": "Mr Humayon Kabir- M-12",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_shoriful_azam_m_13",
+              "name": "Mr Shoriful Azam- M-13",
+              "number": "",
+              "icon": "pilot_mob_no"
+            },
+            {
+              "id": "kln_pilot_mobile_mr_akteruzzaman_m_14",
+              "name": "Mr Akteruzzaman- M-14",
+              "number": "",
+              "icon": "pilot_mob_no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "dhk_area",
+      "title": "Dhaka Area",
+      "grid_items": [
+        {
+          "title": "Office Staff",
+          "icon": "office_staff",
+          "activity_title": "DHK Area Office Staff",
+          "contacts": [
+            {
+              "id": "dhk_area_office_staff_ns_information_desk_01769702035",
+              "name": "NS Information Desk",
+              "number": "01769702035",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_da_office_staff_01769702060",
+              "name": "DA Office Staff",
+              "number": "01769702060",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dsig_office_staff_01769702167",
+              "name": "DSIG Office Staff",
+              "number": "01769702167",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_nda_office_staff_01769702106",
+              "name": "NDA Office Staff",
+              "number": "01769702106",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_sd_c_office_staff_01769702124",
+              "name": "SD\u0026C Office Staff",
+              "number": "01769702124",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dworks_office_staff_01769702185",
+              "name": "DWORKS Office Staff",
+              "number": "01769702185",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dnav_office_staff_01769702195",
+              "name": "DNAV Office Staff",
+              "number": "01769702195",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dnt_office_staff_01769702245",
+              "name": "DNT Office Staff",
+              "number": "01769702245",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dono_office_staff_01769702285",
+              "name": "DONO Office Staff",
+              "number": "01769702285",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dnit_office_staff_01769702346",
+              "name": "DNIT Office Staff",
+              "number": "01769702346",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dsb_office_staff_01769702355",
+              "name": "DSB Office Staff",
+              "number": "01769702355",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dts_office_staff_01769702425",
+              "name": "DTS Office Staff",
+              "number": "01769702425",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dpp_a_office_staff_01769702435",
+              "name": "DPP\u0026A Office Staff",
+              "number": "01769702435",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dpp_a_lobna_01769702438",
+              "name": "DPP\u0026A LOBNA",
+              "number": "01769702438",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dpp_a_duty_wtr_01769702439",
+              "name": "DPP\u0026A Duty Wtr",
+              "number": "01769702439",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_bnppams_01769702440",
+              "name": "BNPPAMS",
+              "number": "01769702440",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dnst_office_staff_01769702465",
+              "name": "DNST Office Staff",
+              "number": "01769702465",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_dr_dhaka_01769704156",
+              "name": "DR DHAKA",
+              "number": "01769704156",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_fleet_club_dhaka_01769702729",
+              "name": "FLEET CLUB DHAKA",
+              "number": "01769702729",
+              "icon": "office_staff"
+            },
+            {
+              "id": "dhk_area_office_staff_exchange_dhaka_88029836141",
+              "name": "EXCHANGE DHAKA",
+              "number": "+88029836141",
+              "icon": "office_staff"
+            }
+          ]
+        },
+        {
+          "title": "All MSO/RCO",
+          "icon": "all_mso_rco",
+          "activity_title": "DHK Area All MSO/RCO",
+          "contacts": [
+            {
+              "id": "dhk_area_all_mso_rco_comdhaka_mso_01769702537",
+              "name": "COMDHAKA MSO",
+              "number": "01769702537",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "dhk_area_all_mso_rco_admin_dhaka_mso_01769712506",
+              "name": "ADMIN DHAKA MSO",
+              "number": "01769712506",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "dhk_area_all_mso_rco_haji_mohshin_mso_01769704137",
+              "name": "HAJI MOHSHIN MSO",
+              "number": "01769704137",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "dhk_area_all_mso_rco_s_mujib_mso_01769714337",
+              "name": "S/MUJIB MSO",
+              "number": "01769714337",
+              "icon": "all_mso_rco"
+            },
+            {
+              "id": "dhk_area_all_mso_rco_rco_dhaka_01769702822",
+              "name": "RCO DHAKA",
+              "number": "01769702822",
+              "icon": "all_mso_rco"
+            }
+          ]
+        },
+        {
+          "title": "Haji Mohsin",
+          "icon": "pekua",
+          "activity_title": "BNS HAJI MOHSIN",
+          "contacts": [
+            {
+              "id": "bns_haji_mohsin_mso_01769704137",
+              "name": "MSO",
+              "number": "01769704137",
+              "icon": "pekua"
+            },
+                        {
+              "id": "test_number_01707728000",
+              "name": "Maheby Hasan",
+              "number": "01707728000",
+              "icon": "pekua"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
