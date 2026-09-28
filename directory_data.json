@@ -4073,12 +4073,11 @@
           "icon": "pekua",
           "activity_title": "BNS HAJI MOHSIN",
           "contacts": [
-              {
+            {
               "id": "bns_haji_mohsin_mso_01769704137",
               "name": "MSO",
               "number": "01769704137",
               "icon": "pekua"
-              }
             }
           ]
         }
